@@ -1,0 +1,7 @@
+{'time':'2021-03-27 23:07:30', 'class name': 'MyclassA','function name':'method1','level': 'ERROR', 'message': 'error from test class A'}
+{'time':'2021-03-27 23:07:30', 'class name': 'MyclassB','function name':'methodB1','level': 'INFO', 'message': 'info message from test class B'}
+{'time':'2021-03-27 23:07:30', 'class name': 'MyclassB','function name':'methodB2','level': 'DEBUG', 'message': 'debug message from test class B'}
+{'time':'2021-03-27 23:07:30', 'class name': 'MyclassC','function name':'method3','level': 'WARNING', 'message': 'Warning from test class C'}
+{'time':'2021-03-27 23:08:17', 'class name': 'MyclassA','function name':'method1','level': 'ERROR', 'message': 'error from test class A'}
+{'time':'2021-03-27 23:08:17', 'class name': 'MyclassB','function name':'methodB1','level': 'INFO', 'message': 'error from test class B'}
+{'time':'2021-03-27 23:08:17', 'class name': 'MyclassC','function name':'method3','level': 'WARNING', 'message': 'Warning from test class C'}
